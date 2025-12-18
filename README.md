@@ -1,4 +1,4 @@
-# Bio
+# Codewafer-Bio
 
 👋 Welcome to CodeWafer
 
